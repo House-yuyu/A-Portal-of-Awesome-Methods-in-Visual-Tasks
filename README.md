@@ -20,7 +20,6 @@ If you have any suggestions about this repository, please feel free to [start a 
 - [Datasets](#datasets)
 - [Q&A](#qa)
 - [References](#references)
-- [Star History](#star-history)
 
 <!-- omit in toc -->
 # To-Do Lists
@@ -105,6 +104,7 @@ If you have any suggestions about this repository, please feel free to [start a 
 
 
 <!-- omit in toc -->
+
 # References
 
 The `reference.bib` file summarizes bibtex references of up-to-date image inpainting papers, widely used datasets, and toolkits.
@@ -120,12 +120,12 @@ If you have other demands of reference formats, you may refer to the original re
 [<u><small><🎯Back to Top></small></u>](#contents)
 
 <!-- omit in toc -->
+
 # Star History
 
 <p align="center">
-    <a href="https://api.star-history.com/svg?repos=AlonzoLeeeooo/awesome-image-inpainting-studies&type=Date" target="_blank">
-        <img width="500" src="https://api.star-history.com/svg?repos=AlonzoLeeeooo/awesome-image-inpainting-studies&type=Date" alt="Star History Chart">
+    <a href="https://api.star-history.com/svg?repos=House-yuyu/A-Portal-of-Awesome-Methods-in-Visual-Tasks&type=Date" target="_blank">
+        <img width="500" src="https://api.star-history.com/svg?repos=House-yuyu/A-Portal-of-Awesome-Methods-in-Visual-Tasks&type=Date" alt="Star History Chart">
     </a>
 <p>
 
-[<u><small><🎯Back to Top></small></u>](#contents)
