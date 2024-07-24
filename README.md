@@ -1,7 +1,7 @@
 <p align="center">
   <h1 align="center">A Portal of Awesome Methods in Visual Tasks</h1>
 
-This GitHub repository summarizes papers and projects related to the low-level vision tasks, AIGC, etc. 
+A collection of projects on low/high level vision tasks, AIGC, Basic architecture, etc. 
 
 If you have any suggestions about this repository, please feel free to [start a new issue](https://github.com/House-yuyu/A-Portal-of-Awesome-Methods-in-Visual-Tasks/issues/new) or [pull requests](https://github.com/House-yuyu/A-Portal-of-Awesome-Methods-in-Visual-Tasks/pulls).
 
@@ -15,25 +15,8 @@ If you have any suggestions about this repository, please feel free to [start a 
 - [Papers](#papers) _(Mainly Deep Learning-Based)_
   - [🔥Text-Guided Image Inpainting](#🔥-text-guided-image-inpainting)
     - [Year 2024](#text-year-2024)
-    - [Year 2023](#text-year-2023)
-    - [Year 2022](#text-year-2022)
-    - [Year 2021](#text-year-2021)
-    - [Year 2020](#text-year-2020)
   - [Vanilla Image Inpainting](#vanilla-image-inpainting)
     - [Year 2024](#vanilla-year-2024)
-  - [Blind Image Inpainting](#blind-image-inpainting)
-    - [Year 2023](#blind-year-2023)
-  - [Edge-Based Image Inpainting](#edge-based-image-inpainting)
-    - [Year 2023](#edge-year-2023)
-  - [Sketch-Guided Image Inpainting](#sketch-guided-image-inpainting)
-    - [Year 2023](#sketch-year-2023)
-  - [Face Image Inpainting](#face-image-inpainting)
-    - [Year 2023](#face-year-2023)
-  - [Fashion Image Inpainting](#fashion-image-inpainting)
-    - [Year 2020](#fashion-year-2020)
-    - [Year 2019](#fashion-year-2019)
-  - [Conventional Methods](#conventional-methods) _(Non Deep Learning-Based)_
-      - [Year 2020](#conventional-year-2020)
 - [Datasets](#datasets)
 - [Q&A](#qa)
 - [References](#references)
@@ -51,10 +34,6 @@ If you have any suggestions about this repository, please feel free to [start a 
 - Previous Papers
   - Published Papers on Conferences
     - [x] Update CVPR papers
-    - [x] Update CVPRW papers
-  - Published Papers on Journals
-    - [x] Update TMM papers
-    - [x] Update TIP papers 
 
 [<u><small><🎯Back to Top></small></u>](#contents)
 
